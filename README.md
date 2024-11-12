@@ -6,10 +6,10 @@ Credit to all original creators, this pack was put together for easy distrobutio
 mods are older and hard to find (a lot of broken links out there).
 
 ## Full list of mods in this pack includes:
-    * Clear Skies
-    * Borrie's Better Skies
-    * Borrie's Better Lightsabers
-    * SWGEmu New PreCU UI Color Schemes by Kayliaah
+- Clear Skies
+- Borrie's Better Skies
+- Borrie's Better Lightsabers
+- SWGEmu New PreCU UI Color Schemes by Kayliaah
 
 
 
