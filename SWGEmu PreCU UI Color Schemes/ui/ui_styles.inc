@@ -8184,6 +8184,11 @@
 					SourceRect='257,116,281,140'
 				/>
 				<ImageStyle
+					Name='cloakofpain'
+					Source='ui_rebel_icons'
+					SourceRect='24,485,48,509'
+				/>
+				<ImageStyle
 					Name='forceArmor1'
 					Source='ui_rebel_icons'
 					SourceRect='141,209,164,233'
@@ -8219,11 +8224,22 @@
 					SourceRect='278,117,302,141'
 				/>
 				<ImageStyle
+					Name='forceBreach'
+					Source='ui_rebel_icons'
+					SourceRect='488,488,512,512'
+				/>
+				<ImageStyle
 					Name='forceIntimidate'
 					Source='ui_rebel_icons'
 					SourceRect='232,210,256,234'
 				/>
-				<ImageStyle
+			<ImageStyle
+					Name='forceIntimidateSingle'
+					Source='ui_rebel_icons'
+					SourceRect='232,210,256,234'
+				/>
+		
+			<ImageStyle
 					Name='forceIntimidate1'
 					Source='ui_rebel_icons'
 					SourceRect='232,210,256,234'
@@ -8509,17 +8525,17 @@
 					SourceRect='163,277,187,301'
 				/>
 				<ImageStyle
-					Name='Saber1hComboHit1'
+					Name='SaberComboHit1'
 					Source='ui_rebel_icons'
 					SourceRect='463,300,487,324'
 				/>
 				<ImageStyle
-					Name='Saber1hComboHit2'
+					Name='SaberComboHit2'
 					Source='ui_rebel_icons'
 					SourceRect='463,300,487,324'
 				/>
 				<ImageStyle
-					Name='Saber1hComboHit3'
+					Name='SaberComboHit3'
 					Source='ui_rebel_icons'
 					SourceRect='463,300,487,324'
 				/>
@@ -8534,17 +8550,17 @@
 					SourceRect='2,417,26,441'
 				/>
 				<ImageStyle
-					Name='Saber1hHeadHit1'
+					Name='SaberHeadHit1'
 					Source='ui_rebel_icons'
 					SourceRect='256,392,280,416'
 				/>
 				<ImageStyle
-					Name='Saber1hHeadHit2'
+					Name='SaberHeadHit2'
 					Source='ui_rebel_icons'
 					SourceRect='256,392,280,416'
 				/>
 				<ImageStyle
-					Name='Saber1hHeadHit3'
+					Name='SaberHeadHit3'
 					Source='ui_rebel_icons'
 					SourceRect='256,392,280,416'
 				/>
@@ -8564,17 +8580,17 @@
 					SourceRect='462,278,486,302'
 				/>
 				<ImageStyle
-					Name='Saber2hBodyHit1'
+					Name='SaberBodyHit1'
 					Source='ui_rebel_icons'
 					SourceRect='140,416,164,440'
 				/>
 				<ImageStyle
-					Name='Saber2hBodyHit2'
+					Name='SaberBodyHit2'
 					Source='ui_rebel_icons'
 					SourceRect='140,416,164,440'
 				/>
 				<ImageStyle
-					Name='Saber2hBodyHit3'
+					Name='SaberBodyHit3'
 					Source='ui_rebel_icons'
 					SourceRect='140,416,164,440'
 				/>
@@ -8604,17 +8620,17 @@
 					SourceRect='140,485,164,509'
 				/>
 				<ImageStyle
-					Name='Saber2hSweep1'
+					Name='SaberSweep1'
 					Source='ui_rebel_icons'
 					SourceRect='95,416,119,440'
 				/>
 				<ImageStyle
-					Name='Saber2hSweep2'
+					Name='SaberSweep2'
 					Source='ui_rebel_icons'
 					SourceRect='95,416,119,440'
 				/>
 				<ImageStyle
-					Name='Saber2hSweep3'
+					Name='SaberSweep3'
 					Source='ui_rebel_icons'
 					SourceRect='95,416,119,440'
 				/>
@@ -8644,32 +8660,32 @@
 					SourceRect='302,370,326,394'
 				/>
 				<ImageStyle
-					Name='SaberPolearmLegHit1'
+					Name='SaberLegHit1'
 					Source='ui_rebel_icons'
 					SourceRect='71,393,95,417'
 				/>
 				<ImageStyle
-					Name='SaberPolearmLegHit2'
+					Name='SaberLegHit2'
 					Source='ui_rebel_icons'
 					SourceRect='71,393,95,417'
 				/>
 				<ImageStyle
-					Name='SaberPolearmLegHit3'
+					Name='SaberLegHit3'
 					Source='ui_rebel_icons'
 					SourceRect='71,393,95,417'
 				/>
 				<ImageStyle
-					Name='SaberPolearmSpinAttack1'
+					Name='SaberSpinAttack1'
 					Source='ui_rebel_icons'
 					SourceRect='485,71,509,95'
 				/>
 				<ImageStyle
-					Name='SaberPolearmSpinAttack2'
+					Name='SaberSpinAttack2'
 					Source='ui_rebel_icons'
 					SourceRect='485,71,509,95'
 				/>
 				<ImageStyle
-					Name='SaberPolearmSpinAttack3'
+					Name='SaberSpinAttack3'
 					Source='ui_rebel_icons'
 					SourceRect='485,71,509,95'
 				/>
@@ -9917,6 +9933,16 @@
 					SourceRect='232,117,255,141'
 				/>
 				<ImageStyle
+					Name='venomDart'
+					Source='ui_rebel_icons'
+					SourceRect='0,440,28,462'
+				/>
+				<ImageStyle
+					Name='rocketBoots'
+					Source='ui_rebel_icons'
+					SourceRect='170,333,190,356'
+				/>
+				<ImageStyle
 					Name='fanshot'
 					Source='ui_rebel_icons'
 					SourceRect='462,439,486,463'
@@ -11018,6 +11044,11 @@
 				/>
 				<ImageStyle
 					Name='taunt'
+					Source='ui_rebel_icons'
+					SourceRect='140,25,164,49'
+				/>
+				<ImageStyle
+					Name='areaTaunt'
 					Source='ui_rebel_icons'
 					SourceRect='140,25,164,49'
 				/>
@@ -43822,6 +43853,11 @@
 						SourceRect='257,116,281,140'
 					/>
 					<ImageStyle
+						Name='cloakofpain'
+						Source='ui_rebel_icons'
+						SourceRect='24,485,48,509'
+					/>
+					<ImageStyle
 						Name='forceArmor1'
 						Source='ui_rebel_icons'
 						SourceRect='141,209,164,233'
@@ -43856,8 +43892,19 @@
 						Source='ui_rebel_icons'
 						SourceRect='278,117,302,141'
 					/>
+
+					<ImageStyle
+						Name='forceBreach'
+						Source='ui_rebel_icons'
+						SourceRect='488,488,512,512'
+					/>
 					<ImageStyle
 						Name='forceIntimidate'
+						Source='ui_rebel_icons'
+						SourceRect='232,210,256,234'
+					/>
+					<ImageStyle
+						Name='forceIntimidateSingle'
 						Source='ui_rebel_icons'
 						SourceRect='232,210,256,234'
 					/>
@@ -44147,17 +44194,17 @@
 						SourceRect='163,277,187,301'
 					/>
 					<ImageStyle
-						Name='Saber1hComboHit1'
+						Name='SaberComboHit1'
 						Source='ui_rebel_icons'
 						SourceRect='463,300,487,324'
 					/>
 					<ImageStyle
-						Name='Saber1hComboHit2'
+						Name='SaberComboHit2'
 						Source='ui_rebel_icons'
 						SourceRect='463,300,487,324'
 					/>
 					<ImageStyle
-						Name='Saber1hComboHit3'
+						Name='SaberComboHit3'
 						Source='ui_rebel_icons'
 						SourceRect='463,300,487,324'
 					/>
@@ -44172,17 +44219,17 @@
 						SourceRect='2,417,26,441'
 					/>
 					<ImageStyle
-						Name='Saber1hHeadHit1'
+						Name='SaberHeadHit1'
 						Source='ui_rebel_icons'
 						SourceRect='256,392,280,416'
 					/>
 					<ImageStyle
-						Name='Saber1hHeadHit2'
+						Name='SaberHeadHit2'
 						Source='ui_rebel_icons'
 						SourceRect='256,392,280,416'
 					/>
 					<ImageStyle
-						Name='Saber1hHeadHit3'
+						Name='SaberHeadHit3'
 						Source='ui_rebel_icons'
 						SourceRect='256,392,280,416'
 					/>
@@ -44202,17 +44249,17 @@
 						SourceRect='462,278,486,302'
 					/>
 					<ImageStyle
-						Name='Saber2hBodyHit1'
+						Name='SaberBodyHit1'
 						Source='ui_rebel_icons'
 						SourceRect='140,416,164,440'
 					/>
 					<ImageStyle
-						Name='Saber2hBodyHit2'
+						Name='SaberBodyHit2'
 						Source='ui_rebel_icons'
 						SourceRect='140,416,164,440'
 					/>
 					<ImageStyle
-						Name='Saber2hBodyHit3'
+						Name='SaberBodyHit3'
 						Source='ui_rebel_icons'
 						SourceRect='140,416,164,440'
 					/>
@@ -44242,17 +44289,17 @@
 						SourceRect='140,485,164,509'
 					/>
 					<ImageStyle
-						Name='Saber2hSweep1'
+						Name='SaberSweep1'
 						Source='ui_rebel_icons'
 						SourceRect='95,416,119,440'
 					/>
 					<ImageStyle
-						Name='Saber2hSweep2'
+						Name='SaberSweep2'
 						Source='ui_rebel_icons'
 						SourceRect='95,416,119,440'
 					/>
 					<ImageStyle
-						Name='Saber2hSweep3'
+						Name='SaberSweep3'
 						Source='ui_rebel_icons'
 						SourceRect='95,416,119,440'
 					/>
@@ -44282,32 +44329,32 @@
 						SourceRect='302,370,326,394'
 					/>
 					<ImageStyle
-						Name='SaberPolearmLegHit1'
+						Name='SaberLegHit1'
 						Source='ui_rebel_icons'
 						SourceRect='71,393,95,417'
 					/>
 					<ImageStyle
-						Name='SaberPolearmLegHit2'
+						Name='SaberLegHit2'
 						Source='ui_rebel_icons'
 						SourceRect='71,393,95,417'
 					/>
 					<ImageStyle
-						Name='SaberPolearmLegHit3'
+						Name='SaberLegHit3'
 						Source='ui_rebel_icons'
 						SourceRect='71,393,95,417'
 					/>
 					<ImageStyle
-						Name='SaberPolearmSpinAttack1'
+						Name='SaberSpinAttack1'
 						Source='ui_rebel_icons'
 						SourceRect='485,71,509,95'
 					/>
 					<ImageStyle
-						Name='SaberPolearmSpinAttack2'
+						Name='SaberSpinAttack2'
 						Source='ui_rebel_icons'
 						SourceRect='485,71,509,95'
 					/>
 					<ImageStyle
-						Name='SaberPolearmSpinAttack3'
+						Name='SaberSpinAttack3'
 						Source='ui_rebel_icons'
 						SourceRect='485,71,509,95'
 					/>
@@ -45559,6 +45606,16 @@
 						SourceRect='232,117,255,141'
 					/>
 					<ImageStyle
+						Name='venomDart'
+							Source='ui_shader_add:ui_rebel_icons'
+						SourceRect='0,440,28,462'
+					/>
+					<ImageStyle
+						Name='rocketBoots'
+							Source='ui_shader_add:ui_rebel_icons'
+							SourceRect='170,333,190,356'
+					/>
+					<ImageStyle
 						Name='fanshot'
 						Source='ui_shader_add:ui_rebel_icons'
 						SourceRect='462,439,486,463'
@@ -46703,6 +46760,11 @@
 						Source='ui_shader_add:ui_rebel_icons'
 						SourceRect='140,25,164,49'
 					/>
+					<ImageStyle
+						Name='areaTaunt'
+						Source='ui_shader_add:ui_rebel_icons'
+						SourceRect='140,25,164,49'
+					/>					
 					<ImageStyle
 						Name='taunt1'
 						Source='ui_shader_add:ui_rebel_icons'
