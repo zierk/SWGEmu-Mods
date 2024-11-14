@@ -6,7 +6,7 @@ This mod works with default settings but you can change the default size to be g
 
 To change the default from 15, right click the ui_ground_hud_group.inc file and look for the "MaximumSize" variable (default line 5).
 ```
-      <Page
+		<Page
 			BackgroundColor='#FFFFFF'
 			BackgroundOpacity='1.00'
 			Location='0,46'
@@ -27,7 +27,6 @@ To change the default from 15, right click the ui_ground_hud_group.inc file and 
 			UserResizable='true'
 		>
 ```
-
 Change the value of "MaximumSize=" to however many members you want multiplied by 39, so for 25 members, so 975.
 
 
