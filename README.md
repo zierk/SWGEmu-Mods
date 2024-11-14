@@ -10,6 +10,8 @@ mods are older and hard to find (a lot of broken links out there).
 - Borrie's Better Skies
 - Borrie's Better Lightsabers
 - SWGEmu New PreCU UI Color Schemes by Kayliaah
+- Mute Force Meditate
+- Group Window Fix
 
 
 
