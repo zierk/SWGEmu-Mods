@@ -5,6 +5,8 @@ the default group window behavikor that sizes itself to your window's vertical s
 This mod works with default settings but you can change the default size to be greater or smaller than 15 members.
 
 To change the default from 15, right click the ui_ground_hud_group.inc file and look for the "MaximumSize" variable (default line 5).
+
+## Example:
 ```
 		<Page
 			BackgroundColor='#FFFFFF'
