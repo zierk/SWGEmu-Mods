@@ -39,3 +39,11 @@ New: 25 Members
 
 To install:
 Copy the ui folder to the root directory of your SWGEmu install (the folder where swgemu.exe is).
+
+## Install Path:
+```
+SWGEmu Client Root/
+|-- ui/
+|   |-- ui_ground_hud_group.inc
+|-- swgemu.exe
+``
