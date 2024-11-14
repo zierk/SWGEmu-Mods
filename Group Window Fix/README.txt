@@ -1,3 +1,5 @@
+# Group Window Fix
+
 This mod will limit the size of your group member list (default 15) and force the rest of the names to scroll properly. This fixes 
 the default group window behavikor that sizes itself to your window's vertical size and sometimes will not let you scroll.
 This mod works with default settings but you can change the default size to be greater or smaller than 15 members.
