@@ -12,7 +12,7 @@ To change the default from 15, right click the ui_ground_hud_group.inc file and 
 			BackgroundColor='#FFFFFF'
 			BackgroundOpacity='1.00'
 			Location='0,46'
-			MaximumSize='16000,975'
+			MaximumSize='16000,585'
 			MinimumSize='201,39'
 			Name='group'
 			OnDisableEffector='/effectors.opacity.bg.fadeout'
