@@ -31,7 +31,11 @@ To change the default from 15, right click the ui_ground_hud_group.inc file and 
 ```
 Change the value of "MaximumSize=" to however many members you want multiplied by 39, so for 25 members, so 975.
 
+Old: 15 Default
+> MaximumSize='16000,585'
 
+New: 25 Members
+> MaximumSize='16000,975'
 
 To install:
 Copy the ui folder to the root directory of your SWGEmu install (the folder where swgemu.exe is).
