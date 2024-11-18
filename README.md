@@ -16,7 +16,7 @@ mods are older and hard to find (a lot of broken links out there).
 
 
 ## Other mods to consider:
-    ReShade: https://reshade.me/#download
+### ReShade: https://reshade.me/#download
     Quick Install: Download latest ReShade. Close all instance of SWGEmu.
     Run setup tool, browse to and select SWGEmu.exe, select DirectX 9 when prompted for a render engine,
     Do not set any profiles, Done.
